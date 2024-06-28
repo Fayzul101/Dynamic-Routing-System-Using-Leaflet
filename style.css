@@ -1,0 +1,29 @@
+
+
+form{
+    border: 1px solid red;
+    width: 500px;
+    height: 250px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%);
+}
+
+input{
+    margin-left: 5px;
+    border: 1px solid black;
+    padding: 2px;
+    padding-left: 3px;
+}
